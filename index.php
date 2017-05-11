@@ -10,7 +10,7 @@ include_once(dirname(__FILE__) . '/constant/constant.php');
      <head>
                <meta charset="UTF-8"/>
                <title> <?php if (isset($_COOKIE[DB_USER_NAME])) { echo $_COOKIE[DB_USER_NAME] . 'の';} ?>Blog</title>
-               <link rel="icon" type="image/jpg" href="images/background.jpg" />
+               <link rel="icon" type="image/jpg" href="images/background2.jpg" />
                <link rel="stylesheet" type="text/css" href="css/index.css"/>
 
      </head>
